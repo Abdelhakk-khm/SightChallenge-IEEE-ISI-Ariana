@@ -1,7 +1,7 @@
 # SightChallenge-IEEE-ISI-Ariana
 
 # HydroWater
-
+ 
 HydroWater is a comprehensive solution designed to address power and water outages by leveraging technology to provide an efficient and sustainable approach to managing these issues.
 
 ## Overview
