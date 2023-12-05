@@ -11,10 +11,8 @@ This repository contains the necessary resources and documentation for the Hydro
 ### Prototype Folder
 
 - **Machine Model (Blender File)**: Contains the Blender file showcasing the design model of our innovative machine aimed at tackling water and power outages.
-- *(Add brief instructions on how to view or modify the model if needed)*
 
 - **Application Design (Figma File)**: Includes the Figma file presenting the user interface and functionality of our proposed application.
-- *(Add instructions or exported images/components for a preview if feasible)*
 
 ### Presentation
 
