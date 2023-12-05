@@ -1,4 +1,4 @@
-# SightChallenge-IEEE-ISiI-Ariana
+# SightChallenge-IEEE-ISI-Ariana
 
 # HydroWater
 
